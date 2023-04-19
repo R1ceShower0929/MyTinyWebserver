@@ -1,0 +1,15 @@
+2023-03-23 01:57:24.577642 [info] : ========== Server init ==========
+2023-03-23 01:57:24.577654 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-03-23 01:57:24.577710 [info] : LogSys level: 1
+2023-03-23 01:57:24.577714 [info] : srcDir: /home/lb/mywebserver/resources/
+2023-03-23 01:57:24.577716 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-03-23 01:57:24.577717 [info] : ========== Server start ==========
+2023-03-23 01:57:31.860363 [info] : Client[18](192.168.211.1:59113) in, userCount:1
+2023-03-23 01:57:31.860447 [info] : Client[18] in!
+2023-03-23 01:57:31.860908 [info] : Client[19](192.168.211.1:59369) in, userCount:2
+2023-03-23 01:57:31.860938 [info] : Client[19] in!
+2023-03-23 01:57:31.908140 [info] : Client[20](192.168.211.1:59625) in, userCount:3
+2023-03-23 01:57:31.908200 [info] : Client[20] in!
+2023-03-23 01:57:31.910271 [info] : Client[21](192.168.211.1:59881) in, userCount:4
+2023-03-23 01:57:31.910289 [info] : Client[21] in!
+2023-03-23 01:57:31.910954 [info] : Client[24](192.168.211.1:60137) in, userCount:5
